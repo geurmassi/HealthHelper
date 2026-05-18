@@ -1,0 +1,9 @@
+{
+  "short_name": "HealthHelper",
+  "name": "HealthHelper - Referral Management",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff"
+}

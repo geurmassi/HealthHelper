@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.env
+coverage/
+*.log
+.DS_Store
+.idea/
+backend/uploads/
+minikube-linux-amd64
